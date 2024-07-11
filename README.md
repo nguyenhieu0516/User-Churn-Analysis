@@ -23,7 +23,10 @@
 #### 5. Review
 ![image](https://github.com/nguyenhieu0516/User-Churn-Analysis/assets/135586659/a670d53f-6164-4cda-a0e1-9fc79959fb9b)
 
-## III. VISUALIZATION
+## III. ISSUE TREE
+![image](https://github.com/nguyenhieu0516/User-Churn-Analysis/assets/135586659/3e0f3e7b-dd90-4318-bf37-a6d1a1b73bac)
+
+## IV. VISUALIZATION
 #### 1. Customer Overview
 ![image](https://github.com/nguyenhieu0516/User-Churn-Analysis/assets/135586659/4af9b15a-760c-4600-856b-ad1df6d976b3)
 #### 2. Customer Detail
@@ -31,5 +34,5 @@
 #### 3. Churn Reasons
 ![image](https://github.com/nguyenhieu0516/User-Churn-Analysis/assets/135586659/3147ad9b-9d68-4856-9a38-c47b2626f9a7)
 
-## IV. INSIGHTS & RECOMMENDATIONS
+## V. INSIGHTS & RECOMMENDATIONS
 ![image](https://github.com/nguyenhieu0516/User-Churn-Analysis/assets/135586659/933ac299-1d4f-418b-8869-7a46e8dcc0fa)
