@@ -16,4 +16,5 @@
 ![image](https://github.com/nguyenhieu0516/User-Churn-Analysis/assets/135586659/ae1db5d9-928b-4d05-bef5-a30c32be9f90)
 #### 2. DEFINE POINT OF VIEW
 ![image](https://github.com/nguyenhieu0516/User-Churn-Analysis/assets/135586659/fe41ed84-8220-40c3-b522-d4c9877f126f)
-
+#### 3. IDEATE
+![image](https://github.com/nguyenhieu0516/User-Churn-Analysis/assets/135586659/cffc8a7f-e80b-4d4b-a463-082392390bb7)
