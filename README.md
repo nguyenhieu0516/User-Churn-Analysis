@@ -30,3 +30,6 @@
 ![image](https://github.com/nguyenhieu0516/User-Churn-Analysis/assets/135586659/4df3cf6d-58b1-4368-9670-1ce47d1878a2)
 #### 3. Churn Reasons
 ![image](https://github.com/nguyenhieu0516/User-Churn-Analysis/assets/135586659/3147ad9b-9d68-4856-9a38-c47b2626f9a7)
+
+## IV. INSIGHTS & RECOMMENDATIONS
+![image](https://github.com/nguyenhieu0516/User-Churn-Analysis/assets/135586659/933ac299-1d4f-418b-8869-7a46e8dcc0fa)
