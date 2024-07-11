@@ -26,3 +26,7 @@
 ## III. VISUALIZATION
 #### 1. Customer Overview
 ![image](https://github.com/nguyenhieu0516/User-Churn-Analysis/assets/135586659/4af9b15a-760c-4600-856b-ad1df6d976b3)
+#### 2. Customer Detail
+![image](https://github.com/nguyenhieu0516/User-Churn-Analysis/assets/135586659/4df3cf6d-58b1-4368-9670-1ce47d1878a2)
+#### 3. Churn Reasons
+![image](https://github.com/nguyenhieu0516/User-Churn-Analysis/assets/135586659/3147ad9b-9d68-4856-9a38-c47b2626f9a7)
