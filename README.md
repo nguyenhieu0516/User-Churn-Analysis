@@ -18,3 +18,7 @@
 ![image](https://github.com/nguyenhieu0516/User-Churn-Analysis/assets/135586659/fe41ed84-8220-40c3-b522-d4c9877f126f)
 #### 3. IDEATE
 ![image](https://github.com/nguyenhieu0516/User-Churn-Analysis/assets/135586659/cffc8a7f-e80b-4d4b-a463-082392390bb7)
+#### 4. PROTOTYPE
+![image](https://github.com/nguyenhieu0516/User-Churn-Analysis/assets/135586659/4ff24a03-5a52-4696-93fe-04b08dff9ffe)
+#### 5. REVIEW
+![image](https://github.com/nguyenhieu0516/User-Churn-Analysis/assets/135586659/a670d53f-6164-4cda-a0e1-9fc79959fb9b)
