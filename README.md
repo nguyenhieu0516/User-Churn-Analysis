@@ -17,7 +17,7 @@
 #### 2. DEFINE POINT OF VIEW
 ![Screenshot 2024-07-11 144254](https://github.com/nguyenhieu0516/User-Churn-Analysis/assets/135586659/944da576-1fb4-4f0f-ae89-43fddc1ddf11)
 #### 3. IDEATE
-![image](https://github.com/nguyenhieu0516/User-Churn-Analysis/assets/135586659/cffc8a7f-e80b-4d4b-a463-082392390bb7)
+![image](https://github.com/nguyenhieu0516/User-Churn-Analysis/assets/135586659/f327a760-937d-42c1-ae42-2e80c4c42320)
 #### 4. PROTOTYPE
 ![image](https://github.com/nguyenhieu0516/User-Churn-Analysis/assets/135586659/4ff24a03-5a52-4696-93fe-04b08dff9ffe)
 #### 5. REVIEW
